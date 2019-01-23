@@ -21,4 +21,4 @@ The following project can be used in offices and homes where a simple source of 
 
 Another arduino uno is added to the upper part of the Dustbin to control the lid. An IR sensor is placed just above the lid to detect any substances above the dustbin. On sensing, it will open the lid and close automatically. 
 
-A strong amount of power supply might be needed to run the following device. 
+
